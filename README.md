@@ -1,5 +1,3 @@
-# NOT WORKING
-
 # Run Code-Server on Samsung DeX (with Termux)
 
 ## My source for this to work
