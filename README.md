@@ -5,4 +5,9 @@
   ```
   curl -o && chmod 755 ./code-server-install.sh && ./code-server-install.sh
   ```
-  
+* Start code-server `code-server`
+* Start code-server in a background
+  ```
+  code-server & &&
+  cat ~/.config/code-server/config.yaml
+  ```
