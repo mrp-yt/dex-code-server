@@ -19,4 +19,9 @@
   cat ~/.config/code-server/config.yaml
   ```
 ## Uninstall
-  
+* Uninstall code-server and remove config.yaml file
+  ```
+  pkg upgrade -y &&
+  yarn global remove code-server -y &&
+  rm -r ~/.config/code-server
+  ```
