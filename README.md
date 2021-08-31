@@ -14,8 +14,10 @@
   ```
 * Start code-server 
   ```
-  code-server &&
-  # to display password
+  code-server
+  ```
+* Once code-server started press ctrl + c and using this command get password to login
+  ```
   cat ~/.config/code-server/config.yaml
   ```
 ## Uninstall
