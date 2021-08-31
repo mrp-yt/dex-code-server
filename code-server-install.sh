@@ -1,4 +1,4 @@
-pkg upgrade &&
+pkg upgrade -y &&
 pkg install nodejs -y &&
 pkg install yarn -y &&
 pkg install build-essential -y &&
