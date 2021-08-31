@@ -16,5 +16,8 @@
 * Start code-server in a background
   ```
   code-server & &&
+  # to display password
   cat ~/.config/code-server/config.yaml
   ```
+## Uninstall
+  
