@@ -12,11 +12,7 @@
   ```
 * Start code-server 
   ```
-  code-server
-  ```
-* Start code-server in a background
-  ```
-  code-server & &&
+  code-server &&
   # to display password
   cat ~/.config/code-server/config.yaml
   ```
